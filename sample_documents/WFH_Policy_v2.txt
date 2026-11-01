@@ -1,0 +1,5 @@
+SIMULATED SAMPLE DOCUMENT — WFH Policy v2
+Version: 2 | Approved | Effective 2025-01-01
+
+Employees may work remotely up to 3 days per week, with manager approval.
+This policy explicitly supersedes WFH Policy v1.
